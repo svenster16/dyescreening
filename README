@@ -1,0 +1,14 @@
+run build.py to build the DyeScreening project on your local machine. 
+
+build.py will create the data and results folders, where all files genereated throughout the build will be kept. 
+
+the raw_data folder contains the raw data. This data is the "purest". 
+
+the data folder contains all the enriched data and the raw data. All data files in the data folder should be considered to be enriched in some way. 
+
+each experiment in experiment.py contains a seperate model. Each model is unique in either the data it learns from or the machine learning algorithm it uses to learn. 
+
+each model is evaluated using code from evaluation.py.
+
+the result of all model evaluation is stored in the results folder. 
+

@@ -1,0 +1,266 @@
+Structure,C,H,N,O,extinction_coefficient,C Chain
+Benzene,6,6,0,0,210,0
+Toluene,7,8,0,0,2860,0
+Bacteriochlorophyll a,55,74,4,6,92000,0
+"3,3'-Diethylthiacarbocyanine iodide",21,21,2,0,161000,4
+"3,3'-Diethylthiadicarbocyanine iodide",23,23,2,0,249000,6
+"3,3'-Diethylthiatricarbocyanine iodide",25,25,2,0,212000,8
+Indocyanine Green,43,47,2,6,194000,8
+"1,1'-Diethyl-3,3,3',3'-tetramethylindocarbocyanine iodide",27,33,2,0,133000,4
+"1,1'-Diethyl-2,2'-cyanine iodide",23,23,2,0,54000,2
+"1,1'-Diethyl-2,2'-carbocyanine iodide",25,25,2,0,128000,4
+"1,1'-Diethyl-2,2'-dicarbocyanine iodide",27,27,2,0,326000,6
+"1,1'-Diethyl-4,4'-cyanine iodide",23,23,2,0,75000,2
+"1,1'-Diethyl-4,4'-carbocyanine iodide",25,25,2,0,210000,4
+"1,1'-Diethyl-4,4'-dicarbocyanine iodide",27,27,2,0,213000,6
+"3,3'-Diethyloxacarbocyanine iodide",21,21,2,2,149000,4
+"3,3'-Diethyloxadicarbocyanine iodide",23,23,2,2,237000,6
+"3,3'-Diethyloxatricarbocyanine iodide",25,25,2,2,220000,8
+Thymol Blue,27,30,0,5,17600,0
+Thymine,5,6,2,2,7900,0
+trans-Chalcone,15,12,0,1,28000,3
+trans-Stilbene,14,12,0,0,28200,3
+Thiazole Orange,26,24,2,3,58500,2
+Thioflavin T,17,19,2,0,36000,0
+Thionin,12,10,3,0,77600,0
+Phenol Red,19,14,0,5,40000,0
+Phenolphthalein,20,14,0,4,21500,0
+Phenosafranin,18,15,4,0,35600,0
+Phenothiazine,12,9,1,0,47600,0
+Phenoxathiin,12,8,0,1,28500,0
+Nile Blue,20,20,3,1,67000,0
+Nile Red,20,18,2,2,38000,0
+Orange G,16,10,2,7,20900,0
+Oxazine 1,20,26,3,1,117000,0
+Oxazine 170,22,24,3,5,83000,0
+Lucifer Yellow CH,13,9,5,9,24200,0
+Malachite Green,23,25,2,0,77200,0
+Merocyanine 540,26,32,3,6,138000,0
+Mesitylene,9,12,0,0,190,6
+Methyl Blue,37,27,3,9,12250,0
+Methyl Orange,14,14,3,3,25900,0
+Methylene Blue,16,18,3,0,40700,0
+(R)-BINOL,20,14,0,2,8590,0
+"1,2,3,4,5-Pentamethylcyclopentadiene",10,16,0,0,12200,0
+"1,2,3,4,5-Pentaphenyl-1,3-cyclopentadiene",35,26,0,0,18600,0
+"1,2,4,5-Tetracyanobenzene",10,2,4,0,3400,0
+"1,2-Diphenylacetylene",14,10,0,0,27600,0
+"1,2-Naphthoquinone",10,6,0,2,19200,0
+"1,2-Naphthoquinone-4-sulfonic acid, sodium salt",10,5,0,5,8570,0
+"1,3,5-Triphenylbenzene",24,18,0,0,60000,0
+"1,4,5,8-Naphthalenetetracarboxylic dianhydride",14,4,0,6,37200,0
+"1,4-Anthraquinone",14,8,0,2,46800,0
+"1,4-Benzoquinone",6,4,0,2,17000,0
+"1,4-Diethynylbenzene",10,6,0,0,28200,0
+"1,4-Diphenylbutadiene",16,14,0,0,33000,5
+"1,4-Diphenylbutadiyne",16,10,0,0,27800,0
+"1,4-Naphthoquinone",10,6,0,2,21300,0
+"1,6-Diphenylhexatriene",18,16,0,0,82400,7
+"1,8-Naphthalic anhydride",12,6,0,3,26300,0
+"2,2'-Bipyridine",10,8,2,0,11200,0
+"2,3,5,6-Tetrachloro-1,4-benzoquinone",6,0,0,2,22400,0
+"2,3,5,6-Tetramethyl-1,4-benzoquinone",10,12,0,2,24500,0
+"2,3,5-Triphenyltetrazolium Chloride",19,15,4,0,25600,0
+"2,3-Diaminonaphthalene",10,10,2,0,50100,0
+"2,3-Dichloro-1,4-naphthoquinone",10,4,0,2,18400,0
+"2,3-Dichloro-5,6-dicyano-1,4-benzoquinone",8,0,2,2,12300,0
+"2,4-dihydroxy-6-methylpyrimidine",5,6,2,2,9300,0
+"2,5-Diphenyl-1,4-benzoquinone",18,12,0,2,31100,0
+"2,5-Di-tert-butyl-1,4-benzoquinone",14,20,0,2,15100,0
+"2',7'-Dichlorofluorescein",20,10,0,5,75000,0
+2-Acetylpyridine,7,7,1,1,7500,0
+2-Amino-4-methylpyrimidine,5,7,3,0,14500,0
+2-Aminonaphthalene,10,9,1,0,53700,0
+"2-Methyl-1,4-naphthoquinone",11,8,0,2,18200,0
+2-Methylbenzoxazole,8,7,1,1,10200,0
+"3,3',5,5-Tetramethylbenzidine",16,20,2,0,34800,0
+"3,3'-Dimethylbenzidine",14,16,2,0,41800,0
+"3,4,5,6-Tetrachloro-1,2-benzoquinone",6,0,0,2,1480,0
+"3,4,5,6-Tetrachlorofluorescein",20,8,0,5,65500,0
+3-Hydroxyacetophenone,8,8,0,2,19000,0
+3-Quinoline carboxaldehyde,10,7,1,1,1330,0
+4-(4-Nitrobenzyl)pyridine,12,10,2,2,12300,0
+"4,4'-Bipyridine",10,8,2,0,12600,0
+"4,4'-Dihydroxybenzophenone",13,10,0,3,15200,0
+4-Chloro-7-nitrobenzofurazan,6,2,3,3,8130,0
+4-Dimethylamino-4'-nitrostilbene,16,16,2,2,27000,3
+4-Dimethylaminopyridine,7,10,2,0,13300,0
+4-Hydroxycoumarin,9,6,0,3,8470,0
+"5,12-Naphthacenequinone",18,10,0,2,36300,0
+5-Phenyldipyrromethane,15,14,2,0,36000,0
+"6,13-Pentacenequinone",22,12,0,2,107000,0
+"7,7,8,8-Tetracyanoquinodimethane",12,4,4,0,42700,0
+"7-Benzylamino-4-nitrobenz-2-oxa-1,3-diazole",13,10,4,3,19700,0
+7-Hydroxy-4-(trifluoromethyl)coumarin,10,5,0,3,12600,0
+7-Hydroxycoumarin,9,6,0,3,16800,0
+7-Methoxycoumarin-4-acetic acid,12,10,0,5,11820,0
+8-Anilino-1-naphthalenesulfonic acid,16,13,1,3,25100,0
+8-Quinoline carboxylic acid,10,7,1,2,31900,0
+"9,10-Anthraquinone",14,8,0,2,56800,0
+"9,10-Bis(phenylethynyl)anthracene",30,18,0,0,87000,0
+"9,10-Diphenylanthracene",26,18,0,0,14000,0
+"9,10-Phenanthrenequinone",14,8,0,2,29000,0
+Acetophenone,8,8,0,1,12800,0
+Acid Black 1,22,14,6,9,51600,0
+Acid Blue 92,26,16,3,10,32300,0
+Acid Red 1,18,13,3,8,31900,0
+Acid Red 14,20,12,2,7,24000,0
+Acid Red 2,15,15,3,2,18500,0
+Acid Red 88,20,13,2,4,11700,0
+Acid Violet 3,16,11,3,8,36000,0
+Acridine,13,9,1,0,178000,0
+Acridine Orange,17,19,3,0,49100,0
+Acridine Yellow G,15,16,3,0,51100,0
+Acridone,13,9,1,1,99900,0
+Adenine,5,5,5,0,13000,0
+Alizarin,14,8,0,4,28400,0
+Alizarin Red S,14,7,0,7,20000,0
+all trans-Retinal,20,28,0,1,43500,0
+Aniline,6,7,1,0,1760,0
+Anisole,7,8,0,1,7800,0
+Anthracene,14,10,0,0,9700,0
+Auramine O,17,22,3,0,25300,0
+Azobenzene,12,10,2,0,22400,0
+Azure II,31,34,6,0,81300,0
+Benzaldehyde,7,6,0,1,13200,0
+Benzidine,12,12,2,0,67500,0
+Benzoic acid,7,6,0,2,8270,0
+Benzonitrile,7,5,1,0,13100,0
+Benzophenone,13,10,0,1,19400,0
+Benzopurpurin 4B,34,26,6,6,23900,0
+Benzothiazole,7,5,1,0,18700,0
+Benzotriazole,6,5,3,0,5620,0
+Beta-carotene,40,56,0,0,139500,5
+Betalamic Acid,9,9,1,5,27000,0
+Bilirubin,33,36,4,6,55000,0
+Biliverdin dimethyl ester,35,38,4,6,56200,0
+Biphenyl,12,10,0,0,16000,0
+Boron subphthalocyanine chloride,24,12,6,0,63000,0
+Calcein Blue,15,15,1,7,16100,0
+Carbostyril 124,10,10,2,1,46500,0
+Chlorin e6,34,36,4,6,169000,0
+Chlorobenzene,6,5,0,0,280,0
+Chlorophyll b,55,70,4,6,160000,0
+cis-Stilbene,14,12,0,0,10200,0
+Congo Red,32,22,6,6,48000,0
+Coumarin,9,6,0,2,11000,0
+Coumarin 1,14,17,1,2,23500,0
+Coumarin 151,10,6,1,2,17000,0
+Coumarin 30,21,21,3,2,54000,0
+Coumarin 314,18,19,1,4,46800,0
+Coumarin 343,16,15,1,4,44300,0
+Coumarin 6,20,18,2,2,54000,0
+Coumarin 7,20,19,3,2,52500,0
+Cresol Red,21,18,0,5,46300,0
+Cresyl Violet perchlorate,16,12,3,5,28000,0
+Crystal Violet,25,30,3,0,75800,0
+Curcumin,21,20,0,6,55000,0
+Cyanocobalamin,63,88,14,14,27500,0
+Cytosine,4,5,3,1,6100,0
+D-(-)-Salicin,13,18,0,7,1000,0
+Diethyl phthalate,12,14,0,4,7110,0
+DL-alpha-Tocopherol,29,50,0,2,26300,0
+Durene,10,14,0,0,214,0
+Ellagic Acid Dihydrate,14,10,0,10,35600,0
+Eosin Y,20,6,0,5,112000,0
+Erythrosine B,20,6,0,5,107000,0
+Ethidium Bromide,21,20,3,0,56800,0
+Ethyl 4-(dimethylamino)benzoate,11,15,1,2,23200,0
+Evans Blue,34,24,6,14,86000,0
+FePc,32,16,8,0,69200,0
+Ferrocene,10,10,0,0,96,0
+Fluorescein,20,12,0,5,92300,0
+Folic acid,19,19,7,6,25200,0
+Gallacetophenone,8,8,0,4,12500,0
+Guanine,5,5,5,1,10700,0
+H2P,7,15,0,9,261000,0
+H2Pc,32,18,8,0,162000,0
+Hematin,34,34,4,5,85000,0
+Hesperidin,28,34,0,15,41700,0
+Hexafluorobenzene,6,0,0,0,684,0
+Hexamethylbenzene,12,18,0,0,214,0
+Hoechst 33258,25,24,6,1,40100,0
+Hydroquinone,6,6,0,2,17000,0
+Iodobenzene,6,5,0,0,13200,0
+Janus Green B,30,31,6,0,35000,0
+L-Alanine,3,7,1,2,9,0
+L-Ascorbic acid,6,8,0,6,14000,0
+L-Histidine,6,9,3,2,5700,0
+L-Phenylalanine,9,11,1,2,195,0
+L-Tryptophan,11,12,2,2,5579,0
+L-Tyrosine,9,11,1,3,1405,0
+MgOEP,36,44,4,0,408000,0
+MgPc,32,16,8,0,87100,0
+m-Xylene,8,10,0,0,284,0
+"N,N-Dimethyl-aniline",8,11,1,0,14900,0
+Naphthalene,10,8,0,0,6000,0
+Nitrobenzene,6,5,1,2,8140,0
+N-Phenylbenzylamine,13,13,1,0,13200,0
+o-Xylene,8,10,0,0,254,0
+Pentacene,22,14,0,0,7200,0
+Pentamethylbenzene,11,16,0,0,629,0
+Perylene,20,12,0,0,38500,0
+p-Fuchsin,19,18,3,0,80600,0
+Phenanthrene,14,10,0,0,69200,0
+Phenazine,12,8,2,0,107000,0
+Phenol,6,6,0,1,2340,0
+Phenoxazine,12,9,1,1,39800,0
+Phenylacetylene,8,6,0,0,17600,0
+Phenylboronic acid,6,7,0,2,9520,0
+Phenylhydrazine Hydrochloride,6,9,2,0,490,0
+Phenylpropargyl aldehyde,9,6,0,1,5000,0
+Pheophorbide a,35,36,4,5,93000,0
+Phthalimide,8,5,1,2,44100,0
+Piroxicam,15,13,3,4,13000,0
+Ponceau S,22,12,4,13,42000,0
+p-Phenylenediamine,6,8,2,0,6920,0
+p-Quaterphenyl,24,18,0,0,41000,0
+p-Quinquephenyl,30,22,0,0,62500,0
+Proflavine hydrochloride,13,12,3,0,53700,0
+Protoporphyrin IX dimethyl ester,36,38,4,4,166000,0
+p-Terphenyl,18,14,0,0,33800,0
+Purpurin 18,33,32,4,5,83200,0
+p-Xylene,8,10,0,0,770,0
+Pyranine,16,7,0,10,23100,0
+Pyrene,16,10,0,0,81700,0
+Pyridine,5,5,1,0,1800,0
+Pyridine N-oxide,5,5,1,1,14300,0
+Pyropheophorbide a,33,34,4,3,105000,0
+Pyropheophorbide a methyl ester,34,36,4,3,108000,0
+Pyrrole,4,5,1,0,15000,0
+Pyrrole-2-carboxaldehyde,5,5,1,1,15600,0
+Quinine sulfate,40,50,4,8,5700,0
+Quinoline,9,7,1,0,27000,0
+Quinoline Yellow,18,11,1,2,22700,0
+rac-BINAP,44,32,0,0,9800,0
+Rhodamine 101 inner salt,32,30,2,3,95000,0
+Rhodamine 123,21,17,2,3,85700,0
+Rhodamine 6G,28,31,2,3,116000,0
+Rhodamine B,28,31,2,3,106000,0
+Riboflavin,17,20,4,6,33000,0
+Rose bengal,20,2,0,5,90400,0
+Rubrene,42,28,0,0,127000,0
+Rutin trihydrate,27,36,0,19,25000,0
+Squarylium dye III,20,20,2,2,309000,0
+Stains all,30,27,2,0,96500,0
+Styrene,8,8,0,0,14700,0
+Sudan I,16,12,2,1,14500,0
+Sudan II,18,16,2,1,15800,0
+Sudan III,22,16,4,1,30000,0
+Sudan IV,24,20,4,1,32500,0
+Sulforhodamine 101,31,30,2,7,110000,0
+Tetraphenylmethane,25,20,0,0,1910,0
+Tetracyanoethylene,6,0,4,0,14500,0
+Tetrachlorohydroquinone,6,2,0,2,39900,0
+Tetracene,18,12,0,0,10000,0
+Tetrabenzoporphine,36,22,4,0,66100,0
+Terephthalic acid,8,6,0,4,17000,0
+Sulforhodamine B,27,30,2,7,99000,0
+Triphenylene,18,12,0,0,146000,0
+"Tris(2,2'-bipyridyl)ruthenium(II)",30,24,6,0,87000,0
+Uracil,4,4,2,2,8200,0
+Urolithin B,13,8,0,3,11300,0
+Vanillin,8,8,0,3,9770,0
+Vitamin K1,31,46,0,2,18600,0
+Xantphos,39,32,0,1,23700,0
+ZnPc,32,16,8,0,281800,0

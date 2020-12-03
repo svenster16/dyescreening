@@ -1,0 +1,339 @@
+﻿Structure,extinction_coefficient
+Benzene,210
+Toluene,2860
+Bacteriochlorophyll a,92000
+"3,3'-Diethylthiacarbocyanine iodide",161000
+"3,3'-Diethylthiadicarbocyanine iodide",249000
+"3,3'-Diethylthiatricarbocyanine iodide",212000
+Indocyanine Green,194000
+"1,1'-Diethyl-3,3,3',3'-tetramethylindocarbocyanine iodide",133000
+"1,1'-Diethyl-3,3,3',3'-tetramethylindodicarbocyanine iodide",200000
+"1,1'-Diethyl-3,3,3',3'-tetramethylindotricarbocyanine iodide",240000
+"1,1'-Diethyl-2,2'-cyanine iodide",54000
+"1,1'-Diethyl-2,2'-carbocyanine iodide",128000
+"1,1'-Diethyl-2,2'-dicarbocyanine iodide",326000
+"1,1'-Diethyl-4,4'-cyanine iodide",75000
+"1,1'-Diethyl-4,4'-carbocyanine iodide",210000
+"1,1'-Diethyl-4,4'-dicarbocyanine iodide",213000
+"3,3'-Diethyloxacarbocyanine iodide",149000
+"3,3'-Diethyloxadicarbocyanine iodide",237000
+"3,3'-Diethyloxatricarbocyanine iodide",220000
+Thymol Blue,17600
+Thymine,7900
+Toludine Blue O,74000
+trans-Chalcone,28000
+trans-Stilbene,28200
+Thiazole Orange,58500
+Thioflavin T,36000
+Thionin,77600
+Phenol Red,40000
+Phenolphthalein,21500
+Phenosafranin,35600
+Phenothiazine,47600
+Phenoxathiin,28500
+Netural Red,43700
+Nile Blue,67000
+Nile Red,38000
+Orange G,20900
+Oragne II,15400
+Oxazine 1,117000
+Oxazine 170,83000
+Lucifer Yellow CH,24200
+Malachite Green,77200
+Merocyanine 540,138000
+Mesitylene,190
+Methyl Blue,12250
+Methyl Green,77800
+Methyl Orange,25900
+Methylene Blue,40700
+(ODC)H2P,299000
+(o-H2NPh)H2P,186000
+(R)-BINOL,8590
+"1,2,3,4,5-Pentamethylcyclopentadiene",12200
+"1,2,3,4,5-Pentaphenyl-1,3-cyclopentadiene",18600
+"1,2,4,5-Tetracyanobenzene",3400
+"1,2-Diphenylacetylene",27600
+"1,2-Naphthoquinone",19200
+"1,2-Naphthoquinone-4-sulfonic acid, sodium salt",8570
+"1,3,5-Triphenylbenzene",60000
+"1,4,5,8-Naphthalenetetracarboxylic dianhydride",37200
+"1,4-Anthraquinone",46800
+"1,4-Benzoquinone",17000
+"1,4-Bis(5-phenyl-2-oxazolyl)benzene, [POPOP]",47000
+"1,4-Diethynylbenzene",28200
+"1,4-Diphenylbutadiene",33000
+"1,4-Diphenylbutadiyne",27800
+"1,4-Naphthoquinone",21300
+"1,4-Naphthoquinone-2-sulfonic acid, Potassium salt",19100
+"1,6-Diphenylhexatriene",82400
+"1,8-Naphthalic anhydride",26300
+"1.3,5-Triazine",890
+"2,2'-Bipyridine",11200
+"2,3,5,6-Tetrachloro-1,4-benzoquinone",22400
+"2,3,5,6-Tetramethyl-1,4-benzoquinone",24500
+"2,3,5-Triphenyltetrazolium Chloride",25600
+"2,3-Diaminonaphthalene",50100
+"2,3-Dichloro-1,4-naphthoquinone",18400
+"2,3-Dichloro-5,6-dicyano-1,4-benzoquinone",12300
+"2,4-dihydroxy-6-methylpyrimidine",9300
+"2,5-Diphenyl-1,4-benzoquinone",31100
+"2,5-Diphenyloxazole, [PPO]",35700
+"2,5-Di-tert-butyl-1,4-benzoquinone",15100
+"2',7'-Dichlorofluorescein",75000
+2-Acetylpyridine,7500
+2-Amino-4-methylpyrimidine,14500
+2-Aminonaphthalene,53700
+"2-Methyl-1,4-naphthoquinone",18200
+2-Methylbenzoxazole,10200
+"3,3',5,5-Tetramethylbenzidine",34800
+"3,3'-Dimethylbenzidine",41800
+"3,4,5,6-Tetrachloro-1,2-benzoquinone",1480
+"3,4,5,6-Tetrachlorofluorescein",65500
+3-Hydroxyacetophenone,19000
+3-Quinoline carboxaldehyde,1330
+4-(4-Nitrobenzyl)pyridine,12300
+"4-(dicyanomethylene)-2-methyl-6-(p-dimethylaminostyryl)-4H-pyran, [DCM]",42000
+"4,4'-Bipyridine",12600
+"4,4'-Dihydroxybenzophenone",15200
+"4',6-Diamidino-2-phenylindole, [DAPI]",27800
+4-Chloro-7-nitrobenzofurazan,8130
+4-Dimethylamino-4'-nitrostilbene,27000
+4-Dimethylaminopyridine,13300
+4-Hydroxycoumarin,8470
+"5,12-Naphthacenequinone",36300
+5-Phenyldipyrrin,19000
+5-Phenyldipyrromethane,36000
+"6,13-Pentacenequinone",107000
+"7,7,8,8-Tetracyanoquinodimethane",42700
+"7-Benzylamino-4-nitrobenz-2-oxa-1,3-diazole",19700
+7-Hydroxy-4-(trifluoromethyl)coumarin,12600
+7-Hydroxycoumarin,16800
+7-Methoxycoumarin-4-acetic acid,11820
+8-Anilino-1-naphthalenesulfonic acid,25100
+8-Quinoline carboxylic acid,31900
+"9,10-Anthraquinone",56800
+"9,10-Bis(phenylethynyl)anthracene",87000
+"9,10-Diphenylanthracene",14000
+"9,10-Phenanthrenequinone",29000
+Acetophenone,12800
+Acid Black 1,51600
+Acid Blue 92,32300
+Acid Red 1,31900
+Acid Red 14,24000
+Acid Red 2,18500
+Acid Red 88,11700
+Acid Violet 3,36000
+Acridine,178000
+Acridine Orange,49100
+Acridine Yellow G,51100
+Acridone,99900
+Adenine,13000
+Alizarin,28400
+Alizarin Red S,20000
+all trans-Retinal,43500
+Aniline,1760
+Anisole,7800
+Anthracene,9700
+Auramine O,25300
+Azobenzene,22400
+Azure II,81300
+Benzaldehyde,13200
+Benzidine,67500
+Benzoic acid,8270
+Benzonitrile,13100
+Benzophenone,19400
+Benzopurpurin 4B,23900
+Benzothiazole,18700
+Benzotriazole,5620
+Beta-carotene,139500
+Betalamic Acid,27000
+Betanin,65000
+Bilirubin,55000
+Biliverdin dimethyl ester,56200
+Biphenyl,16000
+Bis(5-mesityldipyrrinato)zinc,115000
+Bis(5-phenyldipyrrinato)zinc,115000
+Boron subphthalocyanine chloride,63000
+C6F5-Corrole,114000
+C6F5-H2P,236900
+Calcein Blue,16100
+Carbostyril 124,46500
+Chlorin e6,169000
+Chlorobenzene,280
+Chlorophyll a  ,111700
+Chlorophyll b,160000
+cis-Stilbene,10200
+Congo Red,48000
+Coumarin,11000
+Coumarin 1,23500
+Coumarin 151,17000
+Coumarin 30,54000
+Coumarin 314,46800
+Coumarin 343,44300
+Coumarin 6,54000
+Coumarin 7,52500
+Cresol Red,46300
+Cresyl Violet perchlorate,28000
+Crystal Violet,75800
+CuC-1,162000
+CuCOxo-1,174000
+CuOEP,347000
+Curcumin,55000
+Cyanocobalamin,27500
+Cytosine,6100
+D-(-)-Salicin,1000
+Dansylglycine  ,4300
+Diethyl phthalate,7110
+DL-alpha-Tocopherol,26300
+Durene,214
+Ellagic Acid Dihydrate,35600
+Eosin B,95000
+Eosin Y,112000
+Erythrosine B,107000
+Ethidium Bromide,56800
+Ethyl 4-(dimethylamino)benzoate,23200
+Evans Blue,86000
+FePc,69200
+Ferrocene,96
+Fluorescein,92300
+Folic acid,25200
+Gallacetophenone,12500
+Guanine,10700
+H2C-1,89100
+H2COxo-1,174000
+H2N4P(tBu),72600
+H2Nc(OnBu),181000
+H2Nc(tBu),269000
+H2OEP,159000
+H2P,261000
+H2Pc,162000
+H2Pc(OBu),134000
+H2Pc(tBu),178000
+H2TBP(CO2Bu),324000
+H2TBP(CO2Bu)Ph,229000
+H2TBP(CO2Me)Ph,220000
+H2TMP,427000
+H2TPC,165000
+H2TPP,443000
+H2TTP,495000
+H4TPP2+,431000
+Hematin,85000
+Hesperidin,41700
+Hexafluorobenzene,684
+Hexamethylbenzene,214
+Hoechst 33258,40100
+Hydroquinone,17000
+Iodobenzene,13200
+Janus Green B,35000
+L-Alanine,9
+L-Ascorbic acid,14000
+L-Histidine,5700
+L-Phenylalanine,195
+L-Tryptophan,5579
+L-Tyrosine,1405
+MgCOxo-1,191000
+MgOEP,408000
+MgP,487000
+MgPc,87100
+MgTMP,446700
+MgTPP,562000
+m-Xylene,284
+"N,N'-Difluoroboryl-1,9-dimethyl-5-(4-iodophenyl)dipyrrin",59000
+"N,N'-Difluoroboryl-1,9-dimethyl-5-[(4-(2-trimethylsilylethynyl)pheny]dipyrrin",48800
+"N,N'-Difluoroboryl-1,9-dimethyl-5-phenydipyrrin",54000
+"N,N-Dimethyl-aniline",14900
+Naphthalene,6000
+N-Confused tetraphenylporphyrin,159000
+Nitrobenzene,8140
+N-Phenylbenzylamine,13200
+o-Xylene,254
+PdTBP(CO2Bu),302000
+PdTBP(CO2Bu)Ph,250000
+PdTBP(CO2Me)Ph,240000
+PdTCPH(CO2Me)Ph,200000
+Pentacene,7200
+Pentamethylbenzene,629
+Perylene,38500
+"Perylene, PDI",50000
+"Perylene, PMI",32000
+"Perylene, PMI(OR)",32000
+"Perylene, PMI(OR)3",40000
+p-Fuchsin,80600
+Ph-Corrole,110000
+Phenanthrene,69200
+Phenazine,107000
+Phenol,2340
+Phenoxazine,39800
+Phenylacetylene,17600
+Phenylboronic acid,9520
+Phenylhydrazine Hydrochloride,490
+Phenylpropargyl aldehyde,5000
+Pheophorbide a,93000
+Phloxine B,83000
+Phthalimide,44100
+Piroxicam,13000
+Ponceau S,42000
+p-Phenylenediamine,6920
+p-Quaterphenyl,41000
+p-Quinquephenyl,62500
+Proflavine hydrochloride,53700
+Protoporphyrin IX dimethyl ester,166000
+p-Terphenyl,33800
+Purpurin 18,83200
+p-Xylene,770
+Pyranine,23100
+Pyrene,81700
+Pyridine,1800
+Pyridine N-oxide,14300
+Pyropheophorbide a,105000
+Pyropheophorbide a methyl ester,108000
+Pyrrole,15000
+Pyrrole-2-carboxaldehyde,15600
+Quinine sulfate,5700
+Quinoline,27000
+Quinoline Yellow,22700
+rac-BINAP,9800
+Rhodamine 101 inner salt,95000
+Rhodamine 123,85700
+Rhodamine 6G,116000
+Rhodamine B,106000
+Riboflavin,33000
+Rose bengal,90400
+Rubrene,127000
+Rutin trihydrate,25000
+Sapphyrin,74900
+Squarylium dye III,309000
+Stains all,96500
+Styrene,14700
+Sudan I,14500
+Sudan II,15800
+Sudan III,30000
+Sudan IV,32500
+Sulforhodamine 101,110000
+Tetraphenylmethane,1910
+Tetracyanoethylene,14500
+Tetrachlorohydroquinone,39900
+Tetracene,10000
+Tetrabenzoporphine,66100
+Terephthalic acid,17000
+Sulforhodamine B,99000
+Triphenylene,146000
+"Tris(2,2'-bipyridyl)ruthenium(II)",87000
+Uracil,8200
+Urolithin B,11300
+Vanillin,9770
+Vitamin K1,18600
+Xantphos,23700
+ZnC-1,186000
+ZnCOxo-1,209000
+ZnOEP,417000
+ZnP,380000
+ZnPc,281800
+ZnPc(tBu),380000
+ZnTBP(CO2Bu),437000
+ZnTBP(CO2Bu)Ph,389000
+ZnTBP(CO2Me)Ph,300000
+ZnTCPH(CO2Me)Ph,210000
+ZnTMP,385000
+ZnTMP.+,190000
+ZnTPP,574000
